@@ -45,18 +45,18 @@ import json
 ####The call is
 #subprocess.check_call(['python', 'CLcallMainGA.py' , str(numApps), networkTopology, gatype, executionId])
 
-#numApps=int(sys.argv[1])
-#networkTopology=sys.argv[2]
-#gatype=sys.argv[3]
-#executionId=sys.argv[4]
+numApps=int(sys.argv[1])
+networkTopology=sys.argv[2]
+gatype=sys.argv[3]
+executionId=sys.argv[4]
 
 
 #gatype = 'nsga2'
-numApps = 10
-networkTopology = 'scenario/barabasi100.graphml'
-networkTopology = 'nxgenerated.500'
-executionId = 'moead500-10'
-gatype = 'moead'
+#numApps = 10
+#networkTopology = 'scenario/barabasi100.graphml'
+#networkTopology = 'nxgenerated.500'
+#executionId = 'moead500-10'
+#gatype = 'moead'
 
 #executionId= datetime.now().strftime('%Y%m%d%H%M%S')
 file_path = "./"+executionId
@@ -106,7 +106,7 @@ for idx,v in enumerate(g.corega.populationPt.fitness):
         minIdx = idx
         minV = v['total']
 if len(g.corega.populationPt.population)>0:
-    print g.corega.populationPt.fitness[minIdx]            
+    print(g.corega.populationPt.fitness[minIdx])           
 
     if cnf.storeData:
         currentSolution = {}

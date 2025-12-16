@@ -30,7 +30,7 @@ Systems".
 import copy
 import random as random
 import CONFIG as config
-from topology import Entity, Topology
+#from topology import Entity, Topology
 import json
 import networkx as nx
 import numpy as np

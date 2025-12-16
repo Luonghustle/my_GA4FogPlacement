@@ -329,9 +329,9 @@ class NSGA2:
        
         
         populationRt = offspring.populationUnion(self.corega.populationPt,offspring)
-        print len(self.corega.populationPt.population)
-        print len(offspring.population)
-        print len(populationRt.population)
+        print (len(self.corega.populationPt.population))
+        print (len(offspring.population))
+        print (len(populationRt.population))
         del self.corega.populationPt
         del offspring
         
@@ -345,7 +345,7 @@ class NSGA2:
         
         finalPopulation = pop.POPULATION(self.corega.populationSize)
         
-        print len(finalPopulation.population)
+        print (len(finalPopulation.population))
         
         for i in range(self.corega.populationSize):
             finalPopulation.population[i] = copy.deepcopy(populationRt.population[orderedElements[i]["index"]])

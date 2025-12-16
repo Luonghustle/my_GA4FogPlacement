@@ -70,5 +70,5 @@ class CONFIG:
     def printTime(self,timeold,message_str):
         time=datetime.now()
         if self.timeVerbose:
-            print message_str+str(time-timeold)
+            print(message_str+str(time-timeold))
         return time-timeold

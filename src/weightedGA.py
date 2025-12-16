@@ -31,6 +31,8 @@ import numpy as np
 import random as random
 import sys
 import POPULATION as pop
+import matplotlib
+matplotlib.use('Agg') #tranh dung Tk
 import matplotlib.pyplot as plt3d
 import SYSTEMMODEL as systemmodel
 import copy

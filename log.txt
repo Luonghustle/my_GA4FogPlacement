@@ -1,0 +1,16 @@
+17:01:45
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 0
+{"wspr": 0.23919177946516448, "index": 4, "wmak": 0.32778245358474783, "spread": 0.23919177946516448, "makespan": 100.62921325051758, "wres": 0, "total": 0.1889914110166374, "resources": 0}
+17:02:34
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 1
+{"wspr": 0.23919177946516448, "index": 4, "wmak": 0.32778245358474783, "spread": 0.23919177946516448, "makespan": 100.62921325051758, "wres": 0, "total": 0.1889914110166374, "resources": 0}
+17:03:22
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 2
+{"wspr": 0.23919177946516448, "index": 4, "wmak": 0.32778245358474783, "spread": 0.23919177946516448, "makespan": 100.62921325051758, "wres": 0, "total": 0.1889914110166374, "resources": 0}
+01:10:52
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 3
+{"wspr": 0.23919177946516448, "index": 4, "wmak": 0.32778245358474783, "spread": 0.23919177946516448, "makespan": 100.62921325051758, "wres": 0, "total": 0.1889914110166374, "resources": 0}
