@@ -1,0 +1,82 @@
+
+
+14:36:13
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 0
+{"wspr": 0.2496425410246443, "index": 0, "wmak": 0.3032356460227444, "spread": 0.2496425410246443, "makespan": 97.64187801932368, "wres": 0, "total": 0.18429272901579621, "resources": 0}
+14:37:14
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 1
+{"wspr": 0.2496425410246443, "index": 0, "wmak": 0.3032356460227444, "spread": 0.2496425410246443, "makespan": 97.64187801932368, "wres": 0, "total": 0.18429272901579621, "resources": 0}
+14:38:14
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 2
+{"wspr": 0.2499947407773326, "index": 0, "wmak": 0.30074291222475136, "spread": 0.2499947407773326, "makespan": 96.83921773636993, "wres": 0, "total": 0.1835792176673613, "resources": 0}
+14:39:26
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 3
+{"wspr": 0.229706646694871, "index": 0, "wmak": 0.3159989149724162, "spread": 0.229706646694871, "makespan": 101.75165062111802, "wres": 0, "total": 0.18190185388909574, "resources": 0}
+14:40:36
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 4
+{"wspr": 0.229706646694871, "index": 0, "wmak": 0.3159989149724162, "spread": 0.229706646694871, "makespan": 101.75165062111802, "wres": 0, "total": 0.18190185388909574, "resources": 0}
+14:41:42
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 5
+{"wspr": 0.23628667088901684, "index": 0, "wmak": 0.3007513834771464, "spread": 0.23628667088901684, "makespan": 96.84194547964115, "wres": 0, "total": 0.17901268478872107, "resources": 0}
+14:42:38
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 6
+{"wspr": 0.23628667088901684, "index": 0, "wmak": 0.3007513834771464, "spread": 0.23628667088901684, "makespan": 96.84194547964115, "wres": 0, "total": 0.17901268478872107, "resources": 0}
+14:43:36
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 7
+{"wspr": 0.23628667088901684, "index": 0, "wmak": 0.3007513834771464, "spread": 0.23628667088901684, "makespan": 96.84194547964115, "wres": 0, "total": 0.17901268478872107, "resources": 0}
+14:44:34
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 8
+{"wspr": 0.23628667088901684, "index": 0, "wmak": 0.3007513834771464, "spread": 0.23628667088901684, "makespan": 96.84194547964115, "wres": 0, "total": 0.17901268478872107, "resources": 0}
+14:45:29
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 9
+{"wspr": 0.22410097264998208, "index": 0, "wmak": 0.3056668708125972, "spread": 0.22410097264998208, "makespan": 98.4247324016563, "wres": 0, "total": 0.1765892811541931, "resources": 0}
+14:46:26
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 10
+{"wspr": 0.22410097264998208, "index": 0, "wmak": 0.3056668708125972, "spread": 0.22410097264998208, "makespan": 98.4247324016563, "wres": 0, "total": 0.1765892811541931, "resources": 0}
+14:47:21
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 11
+{"wspr": 0.22410097264998208, "index": 0, "wmak": 0.3056668708125972, "spread": 0.22410097264998208, "makespan": 98.4247324016563, "wres": 0, "total": 0.1765892811541931, "resources": 0}
+14:48:20
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 12
+{"wspr": 0.22410097264998208, "index": 0, "wmak": 0.3056668708125972, "spread": 0.22410097264998208, "makespan": 98.4247324016563, "wres": 0, "total": 0.1765892811541931, "resources": 0}
+14:49:17
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 13
+{"wspr": 0.22410097264998208, "index": 0, "wmak": 0.3056668708125972, "spread": 0.22410097264998208, "makespan": 98.4247324016563, "wres": 0, "total": 0.1765892811541931, "resources": 0}
+14:50:16
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 14
+{"wspr": 0.22410097264998208, "index": 0, "wmak": 0.3056668708125972, "spread": 0.22410097264998208, "makespan": 98.4247324016563, "wres": 0, "total": 0.1765892811541931, "resources": 0}
+14:51:16
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 15
+{"wspr": 0.22097002750994713, "index": 0, "wmak": 0.3055150682201047, "spread": 0.22097002750994713, "makespan": 98.37585196687371, "wres": 0, "total": 0.17549503191001725, "resources": 0}
+14:52:12
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 16
+{"wspr": 0.22097002750994713, "index": 0, "wmak": 0.3055150682201047, "spread": 0.22097002750994713, "makespan": 98.37585196687371, "wres": 0, "total": 0.17549503191001725, "resources": 0}
+14:53:10
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 17
+{"wspr": 0.21452758562176807, "index": 0, "wmak": 0.30380737250791945, "spread": 0.21452758562176807, "makespan": 97.82597394755005, "wres": 0, "total": 0.1727783193765625, "resources": 0}
+14:54:09
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 18
+{"wspr": 0.21452758562176807, "index": 0, "wmak": 0.30380737250791945, "spread": 0.21452758562176807, "makespan": 97.82597394755005, "wres": 0, "total": 0.1727783193765625, "resources": 0}
+14:55:07
+Population size: 400
+nxgenerated.500:weightedga:10:Generation number 19
+{"wspr": 0.2104381960347103, "index": 0, "wmak": 0.30509054916862777, "spread": 0.2104381960347103, "makespan": 98.23915683229815, "wres": 0, "total": 0.17184291506777935, "resources": 0}

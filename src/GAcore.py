@@ -223,7 +223,6 @@ class GAcore:
     # i num de servicios
     #j num de devices
     
-    
 
     def crossoverMIO(self,f1,f2,offs):
 
@@ -291,7 +290,7 @@ class GAcore:
         
     def crossover(self,f1,f2,offs=list()):
         
-        return self.Uniformcrossover(f1,f2,offs)
+        return self.crossoverMIO2(f1,f2,offs)
 
 
 
@@ -680,7 +679,9 @@ class GAcore:
         return selected
            
     def fatherSelection(self, orderedFathers): #TODO
-        i = self.tournamentSelection(2,len(orderedFathers))
+        # i = self.tournamentSelection(2,len(orderedFathers))
+        pool_size = max(2, int(len(orderedFathers)*0.15))  # top 15%
+        i = self.rndEVOL.randint(0, pool_size-1)
         return  orderedFathers[i]["index"]
         
 

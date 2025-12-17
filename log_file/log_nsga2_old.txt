@@ -1,0 +1,84 @@
+mutationP = 0.25
+type:   i = self.tournamentSelection(2,len(orderedFathers))
+
+
+15:03:00
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 0
+{"wspr": 0.2517630658154806, "index": 1, "wmak": 0.3063433098816553, "spread": 0.2517630658154806, "makespan": 99.25523240165631, "wres": 0, "total": 0.18603545856571196, "resources": 0}
+15:04:03
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 1
+{"wspr": 0.2486598609752126, "index": 4, "wmak": 0.3011404688418577, "spread": 0.2486598609752126, "makespan": 97.5695119047619, "wres": 0, "total": 0.18326677660569007, "resources": 0}
+15:05:02
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 2
+{"wspr": 0.2486598609752126, "index": 2, "wmak": 0.3011404688418577, "spread": 0.2486598609752126, "makespan": 97.5695119047619, "wres": 0, "total": 0.18326677660569007, "resources": 0}
+15:06:00
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 3
+{"wspr": 0.24194340722307106, "index": 6, "wmak": 0.3048255581754976, "spread": 0.24194340722307106, "makespan": 98.76348084886124, "wres": 0, "total": 0.1822563217995229, "resources": 0}
+15:07:00
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 4
+{"wspr": 0.24241734493279674, "index": 4, "wmak": 0.30273339531733245, "spread": 0.24241734493279674, "makespan": 98.08562008281572, "wres": 0, "total": 0.18171691341670973, "resources": 0}
+15:07:57
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 5
+{"wspr": 0.2294902309015048, "index": 5, "wmak": 0.30633816212117326, "spread": 0.2294902309015048, "makespan": 99.25356452726014, "wres": 0, "total": 0.1786094643408927, "resources": 0}
+15:08:52
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 6
+{"wspr": 0.2294902309015048, "index": 2, "wmak": 0.30633816212117326, "spread": 0.2294902309015048, "makespan": 99.25356452726014, "wres": 0, "total": 0.1786094643408927, "resources": 0}
+15:09:48
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 7
+{"wspr": 0.22599177739085163, "index": 5, "wmak": 0.3034569035477852, "spread": 0.22599177739085163, "makespan": 98.32003674948241, "wres": 0, "total": 0.17648289364621228, "resources": 0}
+15:10:45
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 8
+{"wspr": 0.22599177739085163, "index": 3, "wmak": 0.3034569035477852, "spread": 0.22599177739085163, "makespan": 98.32003674948241, "wres": 0, "total": 0.17648289364621228, "resources": 0}
+15:11:42
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 9
+{"wspr": 0.22599177739085163, "index": 2, "wmak": 0.3034569035477852, "spread": 0.22599177739085163, "makespan": 98.32003674948241, "wres": 0, "total": 0.17648289364621228, "resources": 0}
+15:12:39
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 10
+{"wspr": 0.22599177739085163, "index": 2, "wmak": 0.3034569035477852, "spread": 0.22599177739085163, "makespan": 98.32003674948241, "wres": 0, "total": 0.17648289364621228, "resources": 0}
+15:13:35
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 11
+{"wspr": 0.22599177739085163, "index": 2, "wmak": 0.3034569035477852, "spread": 0.22599177739085163, "makespan": 98.32003674948241, "wres": 0, "total": 0.17648289364621228, "resources": 0}
+15:14:37
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 12
+{"wspr": 0.2254724014372345, "index": 6, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:15:38
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 13
+{"wspr": 0.2254724014372345, "index": 4, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:16:39
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 14
+{"wspr": 0.2254724014372345, "index": 2, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:17:39
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 15
+{"wspr": 0.2254724014372345, "index": 2, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:18:39
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 16
+{"wspr": 0.2254724014372345, "index": 2, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:19:36
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 17
+{"wspr": 0.2254724014372345, "index": 2, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:20:41
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 18
+{"wspr": 0.2254724014372345, "index": 2, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}
+15:21:43
+Population size: 400
+nxgenerated.500:nsga2:10:Generation number 19
+{"wspr": 0.2254724014372345, "index": 2, "wmak": 0.2997256936456816, "spread": 0.2254724014372345, "makespan": 97.11112474120083, "wres": 0, "total": 0.17506603169430535, "resources": 0}

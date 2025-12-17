@@ -1,3 +1,7 @@
+mutation = 0.4
+type:   pool_size = max(2, int(len(orderedFathers)*0.15))
+
+
 13:54:51
 Population size: 400
 nxgenerated.500:nsga2:10:Generation number 0
