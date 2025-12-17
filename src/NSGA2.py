@@ -310,7 +310,6 @@ class NSGA2:
 
 
 
-        
        
     def evolve(self):
         

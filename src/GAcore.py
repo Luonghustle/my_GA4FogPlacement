@@ -340,8 +340,8 @@ class GAcore:
             if chromosome[servId][fogId]==1:
                 allocatedServices.append(servId)
                 fogConsumResource = fogConsumResource + self.system.serviceResources[servId]
-#        if fogConsumResource > self.system.fogResources[fogId]:
-#            return True
+        if fogConsumResource > self.system.fogResources[fogId]:
+            return True
         while fogConsumResource > self.system.fogResources[fogId]:
             removeServId = allocatedServices[self.rndEVOL.randint(0,len(allocatedServices)-1)] #cogemos el valor que hay guardado en allocatedservices, que es el id del service que tiene alojado un servicio
             chromosome[removeServId][fogId]=0
@@ -357,7 +357,7 @@ class GAcore:
         
         
         for fogId in range(0,self.system.fogNumber):
-            if self.notEnoughResourceFogDeviceWithOUTRepair(chromosome,fogId):
+            if self.notEnoughResourceFogDeviceWithRepair(chromosome,fogId):
                 return True
             #TODO si quiero normalizar las soluciones, es aquí que debería cambiar el placement para que ucmpla la constraint
         return False

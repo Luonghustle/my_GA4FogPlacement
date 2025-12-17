@@ -1,20 +1,20 @@
-15:24:15
+16:21:35
 Population size: 100
 nxgenerated.500:nsga2:10:Generation number 0
-{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
-15:24:26
+{"wspr": 0.2839487612356893, "index": 4, "wmak": 0.3063652824505405, "spread": 0.2839487612356893, "makespan": 88.23320134575567, "wres": 0, "total": 0.19677134789540993, "resources": 0}
+16:21:46
 Population size: 100
 nxgenerated.500:nsga2:10:Generation number 1
-{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
-15:24:38
+{"wspr": 0.2839487612356893, "index": 4, "wmak": 0.3063652824505405, "spread": 0.2839487612356893, "makespan": 88.23320134575567, "wres": 0, "total": 0.19677134789540993, "resources": 0}
+16:21:58
 Population size: 100
 nxgenerated.500:nsga2:10:Generation number 2
-{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
-15:24:49
+{"wspr": 0.2839487612356893, "index": 4, "wmak": 0.3063652824505405, "spread": 0.2839487612356893, "makespan": 88.23320134575567, "wres": 0, "total": 0.19677134789540993, "resources": 0}
+16:22:09
 Population size: 100
 nxgenerated.500:nsga2:10:Generation number 3
-{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
-15:25:01
+{"wspr": 0.2839487612356893, "index": 4, "wmak": 0.3063652824505405, "spread": 0.2839487612356893, "makespan": 88.23320134575567, "wres": 0, "total": 0.19677134789540993, "resources": 0}
+16:22:21
 Population size: 100
 nxgenerated.500:nsga2:10:Generation number 4
-{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
+{"wspr": 0.2839487612356893, "index": 4, "wmak": 0.3063652824505405, "spread": 0.2839487612356893, "makespan": 88.23320134575567, "wres": 0, "total": 0.19677134789540993, "resources": 0}
