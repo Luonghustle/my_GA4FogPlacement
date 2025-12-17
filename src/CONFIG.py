@@ -41,9 +41,9 @@ class CONFIG:
         self.topologyJson = 'scenario/topology.former.json' #nombre donde se guarda el json de la topologia
         self.applicationJson = 'scenario/threeapps.json' #nombre donde se guarda el json de la topologia
         self.userJson = 'scenario/user.json' #nombre donde se guarda el json de la topologia
-        self.populationSize = 400#100
-        self.mutationProbability = 0.4
-        self.numberGenerations = 20
+        self.populationSize = 100
+        self.mutationProbability = 0.25
+        self.numberGenerations = 100
         self.T=20 # parameter of MOAE/D
         self.numberOfSubproblems = 13 #parameter to obtain a number of sulutions of N=103 for MOAE/D
         self.numberOfReplicatedApps = 1

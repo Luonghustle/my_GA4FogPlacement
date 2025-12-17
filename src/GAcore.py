@@ -290,7 +290,7 @@ class GAcore:
         
     def crossover(self,f1,f2,offs=list()):
         
-        return self.crossoverMIO2(f1,f2,offs)
+        return self.Uniformcrossover(f1,f2,offs)
 
 
 

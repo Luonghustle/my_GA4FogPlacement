@@ -1,80 +1,20 @@
-13:54:51
-Population size: 400
+15:24:15
+Population size: 100
 nxgenerated.500:nsga2:10:Generation number 0
-{"wspr": 0.25280498328856443, "index": 5, "wmak": 0.2971893259719347, "spread": 0.25280498328856443, "makespan": 98.07247757073846, "wres": 0, "total": 0.18333143642016636, "resources": 0}
-13:55:47
-Population size: 400
+{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
+15:24:26
+Population size: 100
 nxgenerated.500:nsga2:10:Generation number 1
-{"wspr": 0.2681559702431884, "index": 2, "wmak": 0.2815362109709937, "spread": 0.2681559702431884, "makespan": 92.90694962042792, "wres": 0, "total": 0.183230727071394, "resources": 0}
-13:56:43
-Population size: 400
+{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
+15:24:38
+Population size: 100
 nxgenerated.500:nsga2:10:Generation number 2
-{"wspr": 0.2681559702431884, "index": 2, "wmak": 0.2815362109709937, "spread": 0.2681559702431884, "makespan": 92.90694962042792, "wres": 0, "total": 0.183230727071394, "resources": 0}
-13:57:39
-Population size: 400
+{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
+15:24:49
+Population size: 100
 nxgenerated.500:nsga2:10:Generation number 3
-{"wspr": 0.24444399138506182, "index": 4, "wmak": 0.2987288516636344, "spread": 0.24444399138506182, "makespan": 98.58052104899934, "wres": 0, "total": 0.18105761434956538, "resources": 0}
-13:58:37
-Population size: 400
+{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
+15:25:01
+Population size: 100
 nxgenerated.500:nsga2:10:Generation number 4
-{"wspr": 0.23620982494315004, "index": 5, "wmak": 0.29784264487525364, "spread": 0.23620982494315004, "makespan": 98.2880728088337, "wres": 0, "total": 0.17801748993946787, "resources": 0}
-13:59:35
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 5
-{"wspr": 0.23620982494315004, "index": 2, "wmak": 0.29784264487525364, "spread": 0.23620982494315004, "makespan": 98.2880728088337, "wres": 0, "total": 0.17801748993946787, "resources": 0}
-14:00:31
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 6
-{"wspr": 0.23620982494315004, "index": 1, "wmak": 0.29784264487525364, "spread": 0.23620982494315004, "makespan": 98.2880728088337, "wres": 0, "total": 0.17801748993946787, "resources": 0}
-14:01:26
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 7
-{"wspr": 0.24676020384373568, "index": 5, "wmak": 0.2796211901624946, "spread": 0.24676020384373568, "makespan": 92.27499275362322, "wres": 0, "total": 0.17546046466874343, "resources": 0}
-14:02:22
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 8
-{"wspr": 0.24676020384373568, "index": 2, "wmak": 0.2796211901624946, "spread": 0.24676020384373568, "makespan": 92.27499275362322, "wres": 0, "total": 0.17546046466874343, "resources": 0}
-14:03:19
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 9
-{"wspr": 0.24676020384373568, "index": 1, "wmak": 0.2796211901624946, "spread": 0.24676020384373568, "makespan": 92.27499275362322, "wres": 0, "total": 0.17546046466874343, "resources": 0}
-14:04:15
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 10
-{"wspr": 0.24676020384373568, "index": 1, "wmak": 0.2796211901624946, "spread": 0.24676020384373568, "makespan": 92.27499275362322, "wres": 0, "total": 0.17546046466874343, "resources": 0}
-14:05:11
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 11
-{"wspr": 0.24676020384373568, "index": 1, "wmak": 0.2796211901624946, "spread": 0.24676020384373568, "makespan": 92.27499275362322, "wres": 0, "total": 0.17546046466874343, "resources": 0}
-14:06:07
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 12
-{"wspr": 0.24676020384373568, "index": 1, "wmak": 0.2796211901624946, "spread": 0.24676020384373568, "makespan": 92.27499275362322, "wres": 0, "total": 0.17546046466874343, "resources": 0}
-14:07:03
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 13
-{"wspr": 0.24420042066125255, "index": 5, "wmak": 0.2795669834995923, "spread": 0.24420042066125255, "makespan": 92.25710455486546, "wres": 0, "total": 0.1745891347202816, "resources": 0}
-14:07:59
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 14
-{"wspr": 0.24420042066125255, "index": 3, "wmak": 0.2795669834995923, "spread": 0.24420042066125255, "makespan": 92.25710455486546, "wres": 0, "total": 0.1745891347202816, "resources": 0}
-14:08:56
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 15
-{"wspr": 0.243605731413575, "index": 3, "wmak": 0.2801292333270595, "spread": 0.243605731413575, "makespan": 92.44264699792964, "wres": 0, "total": 0.1745783215802115, "resources": 0}
-14:09:52
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 16
-{"wspr": 0.24066595911709307, "index": 4, "wmak": 0.28085900307422057, "spread": 0.24066595911709307, "makespan": 92.68347101449278, "wres": 0, "total": 0.17384165406377122, "resources": 0}
-14:10:52
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 17
-{"wspr": 0.24066595911709307, "index": 3, "wmak": 0.28085900307422057, "spread": 0.24066595911709307, "makespan": 92.68347101449278, "wres": 0, "total": 0.17384165406377122, "resources": 0}
-14:11:51
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 18
-{"wspr": 0.24066595911709307, "index": 2, "wmak": 0.28085900307422057, "spread": 0.24066595911709307, "makespan": 92.68347101449278, "wres": 0, "total": 0.17384165406377122, "resources": 0}
-14:12:47
-Population size: 400
-nxgenerated.500:nsga2:10:Generation number 19
-{"wspr": 0.24007126986941552, "index": 4, "wmak": 0.28142125290168774, "spread": 0.24007126986941552, "makespan": 92.86901345755696, "wres": 0, "total": 0.17383084092370107, "resources": 0}
+{"wspr": 0.248176658309269, "index": 5, "wmak": 0.3366954560140312, "spread": 0.248176658309269, "makespan": 105.72237318840581, "wres": 0, "total": 0.19495737144110006, "resources": 0}
